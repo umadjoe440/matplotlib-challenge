@@ -1,0 +1,9 @@
+Matplotlib Challenge observations
+
+1.  The Capomulin is by far the most promising drug out of the 4 that we compared in this exercise.  It is the only drug with significant tumor reduction results.
+
+2.  Capomulin also demonstrated the lowest metastatic spreading compared to the other 3 drugs.
+
+3.  Capomulin also boasted an over 80% survival rate.  None of the other 3 drugs in our comparison were above 50% survival rates after time period 45.
+
+4.  Personal observation:  I should have engaged TA's early on.  I took a bad path withe last couple of steps in this homework and got stuck, eventually running out of time.  I need to develop a better understanding of matplotlib vs data frame plotting syntax.  I will take another look at this homework when I have time, but for now, on to API's.
